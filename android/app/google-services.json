@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155337950601",
+    "project_id": "meu-projeto-android-e2785",
+    "storage_bucket": "meu-projeto-android-e2785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155337950601:android:b05ff5db5d471dd24b4d58",
+        "android_client_info": {
+          "package_name": "com.firebasenativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9pFGDbGbT109Piib1vh8_7mGbXFu7kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
